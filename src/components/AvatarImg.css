@@ -1,0 +1,15 @@
+.Holder {
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    border-radius: 200px;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.Holder img{
+    border-radius: 200px;
+}
+

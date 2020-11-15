@@ -1,0 +1,19 @@
+label{
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-right: 5px;
+}
+
+.inputComponent{
+    align-items: center;
+    text-align: center;
+    
+}
+
+.inputComponent input{
+    font-size: 15px;
+}
+
+.inputComponent button{
+    font-size: 15px;
+}
